@@ -23,4 +23,9 @@ Yuvasri
 ### Project Status
 Feature update completed.
 Pull request submitted for review.
+<<<<<<< HEAD
 This change is from feature branch.
+=======
+This change is from main branch.
+
+>>>>>>> main
